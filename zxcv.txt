@@ -1,0 +1,9 @@
+7.11 isUnique
+
+collects all integers from input file and puts them into an interger array,  it then compairs intArray[i] to every other array (intArray[k] within second nested looping structure) in the string using 2 looping structures.
+
+int x = input.nextInt();
+
+7.15 collape
+
+uses two arrays and two looping strucures passing down 
